@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		38117CCE24DD173300C81084 /* Design_Pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Design_Pattern; sourceTree = BUILT_PRODUCTS_DIR; };
 		382E019F2518696900A20186 /* 桥接 Bridge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "桥接 Bridge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		382E01EA251C624600A20186 /* 组合 Composite.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "组合 Composite.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38396D9824E655AD00B374EE /* 抽象工厂 Abstract Factory.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "抽象工厂 Abstract Factory.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38817B4924FF60E60055EDAF /* 原型 Prototype.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "原型 Prototype.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		388251A6250895E400DE51EF /* 单例 Singleton.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "单例 Singleton.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -88,6 +89,7 @@
 			children = (
 				38C55848250F2F880072DA6C /* 适配器 Adapter.playground */,
 				382E019F2518696900A20186 /* 桥接 Bridge.playground */,
+				382E01EA251C624600A20186 /* 组合 Composite.playground */,
 			);
 			path = "结构型模式";
 			sourceTree = "<group>";
