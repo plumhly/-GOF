@@ -34,6 +34,7 @@
 		38ABB87D24EF8C6800E55BD3 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = "Design_Pattern/对象创建型模式/建造者 Builder.playground/Resources/main.swift"; sourceTree = "<group>"; };
 		38BEAFE124ECEA4900F7CBA1 /* 建造者 Builder.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "建造者 Builder.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38C55848250F2F880072DA6C /* 适配器 Adapter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "适配器 Adapter.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		38ECAC662536BF9C00C06556 /* 外观 Facade.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "外观 Facade.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +93,7 @@
 				382E019F2518696900A20186 /* 桥接 Bridge.playground */,
 				382E01EA251C624600A20186 /* 组合 Composite.playground */,
 				38384CA4253026E600D8D849 /* 装饰 Decorator.playground */,
+				38ECAC662536BF9C00C06556 /* 外观 Facade.playground */,
 			);
 			path = "结构型模式";
 			sourceTree = "<group>";
