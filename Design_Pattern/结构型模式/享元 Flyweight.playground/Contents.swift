@@ -64,16 +64,74 @@ import Cocoa
 
 
 ## 效果
-### 优点：
+* 共享的Flyweight越多，存储节约也就越多。节约量随着共享状态的增多而增大。当对象使用大量的内部以及外部状态，并且外部状态通过计算而非存储的时候，节约量最大。
 
-### 缺点:
 
 ## 实现
+ 在实现Flyweight是，需要注意几点：
+ 1. 删除外部状态。该模式的可用性很大程度上取决于能否识别外部状态，并将其抽离对象。
+ 2. 管理对象。因为对象是共享的，用户不能直接对它们进行实例化，因此FlyweightFactory可以帮助用户查找Flyweight对象。
 
 ## 相关模式
+ Flyweight模式通常和Composite模式结合起来，用共享叶节点的有向无环图实现一个逻辑上的层次结构。
 
 
 ## 其他知识点
 
 */
 
+enum ShareType {
+    case share, unshare
+}
+
+class FlyweightFactory {
+    
+    
+    static let instance = SharedFlyweight(context: ExtrinsicState())
+    
+    static func getFlyweight(type: ShareType) -> Flyweight {
+        if type == ShareType.share {
+            return instance
+        } else {
+            return UnsharedFlyweight(context: ExtrinsicState())
+        }
+    }
+}
+
+/// 外部状态
+class ExtrinsicState {
+    
+}
+
+/// 内部状态
+class IntrinsicState {
+    
+}
+
+protocol Flyweight {
+    var extrinsicState: ExtrinsicState { get }
+    init(context: ExtrinsicState);
+}
+
+class SharedFlyweight: Flyweight {
+    
+    let intrinsicState = IntrinsicState()
+    
+    let extrinsicState: ExtrinsicState
+    
+    required init(context: ExtrinsicState) {
+        extrinsicState = context
+    }
+    
+}
+
+class UnsharedFlyweight: Flyweight {
+    let extrinsicState: ExtrinsicState
+    
+    required init(context: ExtrinsicState) {
+        extrinsicState = context
+    }
+    
+}
+
+let share = FlyweightFactory.getFlyweight(type: .share)
