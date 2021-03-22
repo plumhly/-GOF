@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		38117CCE24DD173300C81084 /* Design_Pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Design_Pattern; sourceTree = BUILT_PRODUCTS_DIR; };
+		3827C6BE2608D4D6002084D1 /* 结构型模式的讨论.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "结构型模式的讨论.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		382E019F2518696900A20186 /* 桥接 Bridge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "桥接 Bridge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		382E01EA251C624600A20186 /* 组合 Composite.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "组合 Composite.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38384CA4253026E600D8D849 /* 装饰 Decorator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "装饰 Decorator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -98,6 +99,7 @@
 				38ECAC662536BF9C00C06556 /* 外观 Facade.playground */,
 				38964529253EA8BB00531938 /* 享元 Flyweight.playground */,
 				38B5B52525E765550086D337 /* 代理 Proxy.playground */,
+				3827C6BE2608D4D6002084D1 /* 结构型模式的讨论.playground */,
 			);
 			path = "结构型模式";
 			sourceTree = "<group>";
