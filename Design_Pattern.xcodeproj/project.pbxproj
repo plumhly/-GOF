@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		38117CCE24DD173300C81084 /* Design_Pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Design_Pattern; sourceTree = BUILT_PRODUCTS_DIR; };
 		3827C6BE2608D4D6002084D1 /* 结构型模式的讨论.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "结构型模式的讨论.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3827C6C1260C17B5002084D1 /* 责任链 Chain Of Responsibility.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "责任链 Chain Of Responsibility.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		382E019F2518696900A20186 /* 桥接 Bridge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "桥接 Bridge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		382E01EA251C624600A20186 /* 组合 Composite.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "组合 Composite.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38384CA4253026E600D8D849 /* 装饰 Decorator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "装饰 Decorator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -73,6 +74,7 @@
 			children = (
 				38117CD824DD173500C81084 /* 对象创建型模式 */,
 				38C55845250F2F5D0072DA6C /* 结构型模式 */,
+				3827C6C0260C14AD002084D1 /* 行为模式 */,
 			);
 			path = Design_Pattern;
 			sourceTree = "<group>";
@@ -87,6 +89,14 @@
 				388251A6250895E400DE51EF /* 单例 Singleton.playground */,
 			);
 			path = "对象创建型模式";
+			sourceTree = "<group>";
+		};
+		3827C6C0260C14AD002084D1 /* 行为模式 */ = {
+			isa = PBXGroup;
+			children = (
+				3827C6C1260C17B5002084D1 /* 责任链 Chain Of Responsibility.playground */,
+			);
+			path = "行为模式";
 			sourceTree = "<group>";
 		};
 		38C55845250F2F5D0072DA6C /* 结构型模式 */ = {
