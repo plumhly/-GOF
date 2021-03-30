@@ -37,6 +37,7 @@
 		38A1D1F3260EF42100465C42 /* 解释器  Interpreter .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "解释器  Interpreter .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38A1D1F5260EFD7A00465C42 /* 迭代器 Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "迭代器 Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38A1D1F9260EFFCD00465C42 /* 中介者 Mediator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "中介者 Mediator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		38A1D1FB26136F9800465C42 /* 备忘录 Memento.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "备忘录 Memento.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38A7DED824F8C76C001ED461 /* 工厂方法 Factory Method.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "工厂方法 Factory Method.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38ABB87D24EF8C6800E55BD3 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = "Design_Pattern/对象创建型模式/建造者 Builder.playground/Resources/main.swift"; sourceTree = "<group>"; };
 		38B5B52525E765550086D337 /* 代理 Proxy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "代理 Proxy.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -103,6 +104,7 @@
 				38A1D1F3260EF42100465C42 /* 解释器  Interpreter .playground */,
 				38A1D1F5260EFD7A00465C42 /* 迭代器 Iterator.playground */,
 				38A1D1F9260EFFCD00465C42 /* 中介者 Mediator.playground */,
+				38A1D1FB26136F9800465C42 /* 备忘录 Memento.playground */,
 			);
 			path = "行为模式";
 			sourceTree = "<group>";

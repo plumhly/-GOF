@@ -128,6 +128,27 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>备忘录 Memento (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
+		<key>备忘录 Memento (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>30</integer>
+		</dict>
+		<key>备忘录 Memento (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
 		<key>外观 Facade (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
