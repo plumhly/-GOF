@@ -212,6 +212,27 @@
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
+		<key>状态 State (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>35</integer>
+		</dict>
+		<key>状态 State (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
+		<key>状态 State (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>34</integer>
+		</dict>
 		<key>组合 Composite (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
