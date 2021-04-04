@@ -41,6 +41,7 @@
 		38A1D2002614B77400465C42 /* 观察者 Observer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "观察者 Observer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38A1D2022618B1E300465C42 /* 状态 State.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "状态 State.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38A1D2042619675500465C42 /* 策略 Strategy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "策略 Strategy.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		38A1D20626196EAD00465C42 /* 模板方法 Template Method.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "模板方法 Template Method.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38A7DED824F8C76C001ED461 /* 工厂方法 Factory Method.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "工厂方法 Factory Method.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		38ABB87D24EF8C6800E55BD3 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = "Design_Pattern/对象创建型模式/建造者 Builder.playground/Resources/main.swift"; sourceTree = "<group>"; };
 		38B5B52525E765550086D337 /* 代理 Proxy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "代理 Proxy.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -111,6 +112,7 @@
 				38A1D2002614B77400465C42 /* 观察者 Observer.playground */,
 				38A1D2022618B1E300465C42 /* 状态 State.playground */,
 				38A1D2042619675500465C42 /* 策略 Strategy.playground */,
+				38A1D20626196EAD00465C42 /* 模板方法 Template Method.playground */,
 			);
 			path = "行为模式";
 			sourceTree = "<group>";
