@@ -28,7 +28,7 @@
 		<key>Design_Pattern.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<key>中介者 Mediator (Playground) 1.xcscheme</key>
 		<dict>
@@ -49,7 +49,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>25</integer>
+			<integer>17</integer>
 		</dict>
 		<key>享元 Flyweight (Playground) 1.xcscheme</key>
 		<dict>
@@ -70,7 +70,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>7</integer>
 		</dict>
 		<key>代理 Proxy (Playground) 1.xcscheme</key>
 		<dict>
@@ -91,21 +91,28 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>2</integer>
 		</dict>
 		<key>单例 Singleton (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>18</integer>
 		</dict>
 		<key>原型 Prototype (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>15</integer>
+		</dict>
+		<key>命令  Command  (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>23</integer>
 		</dict>
 		<key>命令 - Command  (Playground) 1.xcscheme</key>
 		<dict>
@@ -147,7 +154,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>28</integer>
+			<integer>10</integer>
 		</dict>
 		<key>外观 Facade (Playground) 1.xcscheme</key>
 		<dict>
@@ -168,28 +175,28 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>6</integer>
 		</dict>
 		<key>工厂方法 Factory Method (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>12</integer>
+			<integer>13</integer>
 		</dict>
 		<key>建造者 Builder (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>22</integer>
 		</dict>
 		<key>抽象工厂 Abstract Factory (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>14</integer>
 		</dict>
 		<key>桥接 Bridge (Playground) 1.xcscheme</key>
 		<dict>
@@ -210,7 +217,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>3</integer>
 		</dict>
 		<key>模板方法 Template Method (Playground) 1.xcscheme</key>
 		<dict>
@@ -231,7 +238,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>40</integer>
+			<integer>0</integer>
 		</dict>
 		<key>状态 State (Playground) 1.xcscheme</key>
 		<dict>
@@ -252,7 +259,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>34</integer>
+			<integer>20</integer>
 		</dict>
 		<key>策略 Strategy (Playground) 1.xcscheme</key>
 		<dict>
@@ -273,7 +280,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>37</integer>
+			<integer>19</integer>
 		</dict>
 		<key>组合 Composite (Playground) 1.xcscheme</key>
 		<dict>
@@ -294,7 +301,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>9</integer>
 		</dict>
 		<key>结构型模式的讨论 (Playground) 1.xcscheme</key>
 		<dict>
@@ -315,7 +322,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>12</integer>
 		</dict>
 		<key>装饰 Decorator (Playground) 1.xcscheme</key>
 		<dict>
@@ -357,7 +364,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>31</integer>
+			<integer>5</integer>
 		</dict>
 		<key>解释器  Interpreter  (Playground) 1.xcscheme</key>
 		<dict>
@@ -378,7 +385,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>8</integer>
 		</dict>
 		<key>解释器 - Interpreter  (Playground) 1.xcscheme</key>
 		<dict>
@@ -401,12 +408,33 @@
 			<key>orderHint</key>
 			<integer>16</integer>
 		</dict>
+		<key>访问者 Visitor (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>44</integer>
+		</dict>
+		<key>访问者 Visitor (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
+		<key>访问者 Visitor (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
 		<key>责任链 Chain Of Responsibility (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>4</integer>
 		</dict>
 		<key>迭代器 Iterator (Playground) 1.xcscheme</key>
 		<dict>
@@ -427,14 +455,14 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>16</integer>
 		</dict>
 		<key>适配器 Adapter (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>21</integer>
 		</dict>
 	</dict>
 </dict>
