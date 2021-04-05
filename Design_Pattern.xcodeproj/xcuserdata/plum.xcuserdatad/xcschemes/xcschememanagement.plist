@@ -51,6 +51,27 @@
 			<key>orderHint</key>
 			<integer>17</integer>
 		</dict>
+		<key>于为模式的讨论 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>于为模式的讨论 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
+		<key>于为模式的讨论 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
 		<key>享元 Flyweight (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -343,7 +364,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>24</integer>
 		</dict>
 		<key>观察者 Observer (Playground) 1.xcscheme</key>
 		<dict>
