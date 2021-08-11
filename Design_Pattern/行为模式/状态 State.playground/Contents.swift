@@ -10,7 +10,7 @@
  ## 动机
  考虑一个表示网络连接的类TCPConnection。一个TCPConnection对象的状态处于若干不同状态之一:连接已建立 Established)正在监听(Listening)、连接已关闭(Closed)。
  当一个Tcpconnection对象收到其他对象的请求时,它根据自身的当前状态作出不同的反应。例如,一个Open请求的结果依赖于该连接是处于连接已关闭状态还是连接已建立状态。
- Statel模式描述了 Tcpconnection如何在每一种状态下表现出不同的行为。
+ State模式描述了 Tcpconnection如何在每一种状态下表现出不同的行为。
  
  这一模式的关键思想是引入了一个称为 Tcpstate的抽象类来表示网络的连接状态。Tcpstate类为各表示不同的操作状态的子类声明了一个公共接口。 Tcpstatel的子类实现与特定状态相关的行为。
  例如, Tcpestablished和 Tcpcloseda类分别实现了特定于 Tcpconnectione的连接已建立状态和连接已关闭状态的行为。
